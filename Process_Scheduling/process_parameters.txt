@@ -1,0 +1,15 @@
+p1 ready 5 5 0
+p2 ready 5 10 0
+p3 ready 1 5 0
+p4 ready 2 8 0
+p5 ready 3 7 0
+p6 ready 4 6 0
+p7 ready 2 3 0
+p8 ready 5 5 0
+p9 ready 5 10 0
+p10 ready 1 5 0
+p11 ready 2 8 0
+p12 ready 3 7 0
+p13 ready 4 6 0
+p14 ready 2 3 0
+p15 ready 2 8 0
